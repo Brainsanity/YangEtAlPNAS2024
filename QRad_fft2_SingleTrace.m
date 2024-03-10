@@ -1,5 +1,4 @@
-% This function computes the second term of Eq. (6), which is an estimate of how eye movements redistribute power 
-% in space-time.  
+% This function computes the second term of Eq. (6), which is an estimate of how eye movements and stimulus dynamics redistribute power in space-time.  
 %
 % It relies on two fundamental assumptions which must be always taken into account, and must be used with caution:
 %     1) eye movements do not depend on the external image
